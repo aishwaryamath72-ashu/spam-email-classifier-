@@ -1,0 +1,16 @@
+# Spam Email Classifier
+
+This is a Machine Learning project that classifies messages as Spam or Not Spam using Naive Bayes.
+
+## Features
+- User input message prediction
+- NLP using CountVectorizer
+- Accuracy calculation
+
+## Tech Stack
+- Python
+- Scikit-learn
+- Pandas
+
+## Author
+Aishwarya M
